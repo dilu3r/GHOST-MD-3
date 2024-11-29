@@ -1,16 +1,16 @@
-## <p align="center">❮ ALL ERRORS FIXED 𝗥𝗖𝗗-MD WHATSAPP ❯
+## <p align="center">❮ ALL ERRORS FIXED GHOST-MD WHATSAPP ❯
 <br>
  
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&color=FF0000&random=false&width=435&lines=WELCOME+TO+THE+𝗥𝗖𝗗-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+RCD+TEAM;ERRORS+FIXED+BY+NICO" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&color=FF0000&random=false&width=435&lines=WELCOME+TO+THE+GHOST-MD;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+GHOST+TEAM;ERRORS+FIXED+BY+GHOST" alt="Typing SVG" />
   </a>
 </p>
 
 
 
-<img src="https://telegra.ph/file/a789a7f2437c053ec829a.jpg" width="540" height="280" />
-</p>         ⚔ 𝐑𝐂𝐃 𝐌𝐃 ⚔
+<img src="https://files.catbox.moe/41sdu1.jpg" width="540" height="280" />
+</p>         ⚔ GHOST 𝐌𝐃 ⚔
 
 ### Setup
 
