@@ -110,7 +110,7 @@ smd({
 }, async (message, match) => {
 
     try{
-  let msg = await message.react("🍁")
+  let msg = await message.react("✔")
 	await message.bot.chatModify(
 		{ markRead: true, lastMessages: [message] }, 
     message.jid
