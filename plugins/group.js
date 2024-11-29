@@ -114,7 +114,7 @@ smd(
         var _0x2fe2c7 = "" + _0x2608ab + _0x3a49e9;
         var _0x539d8f = {
           externalAdReply: {
-            title: "RCD MD",
+            title: "GHOST MD",
             body: "" + _0x37b490,
             renderLargerThumbnail: true,
             thumbnail: log0,
@@ -179,7 +179,7 @@ smd(
           _0x511884.toString().padStart(2, "0");
         var _0x56eaaf = {
           externalAdReply: {
-            title: "𝗦𝗨𝗛𝗔𝗜𝗟-𝗠𝗗",
+            title: "𝗚𝗛𝗢𝗦𝗧-𝗠𝗗",
             body: _0x5f4890.subject,
             renderLargerThumbnail: true,
             thumbnail: log0,
