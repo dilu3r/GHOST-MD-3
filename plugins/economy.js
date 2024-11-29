@@ -21,7 +21,7 @@ if (ty) {
       desc: "daily gold.",
       category: "economy",
       filename: __filename,
-      //react: "💷"
+      //react: "☠️"
     },
     async ({ reply, chat, isGroup, sender, error }) => {
       try {
