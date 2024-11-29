@@ -21,7 +21,7 @@
 </p>
 🌟 𝗚𝗛𝗢𝗦𝗧-𝗠𝗗 𝗪𝗘𝗕 𝗦𝗜𝗧𝗘 🌟
 
-<a href="https://ghost-family.github.io/Gost-md-web-new/"><img src="https://img.shields.io/badge/RCD-WEB%20SITE-red" alt="GHOST WEB SITE" width="250"></a>
+<a href="https://ghost-family.github.io/Gost-md-web-new/"><img src="https://img.shields.io/badge/GHOST-WEB%20SITE-red" alt="GHOST WEB SITE" width="250"></a>
 
 **`𝗚𝗛𝗢𝗦𝗧 𝗠𝗗 𝗕𝗢𝗧`**
 
