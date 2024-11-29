@@ -13,7 +13,7 @@ smd(
  },
  async (cld) => {
    const { exec } = require("child_process");
-   cld.reply("Restarting");
+   cld.reply("Restarting....");
    exec("pm2 restart all");
  }
 );
