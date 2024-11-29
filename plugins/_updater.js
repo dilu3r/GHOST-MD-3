@@ -43,7 +43,7 @@ try {
       desc: "Shows repo's refreshed commits.",
       category: "tools",
       fromMe: true,
-      react: "🍂",
+      react: "👾",
       filename: __filename,
       use:
         process.env.HEROKU_APP_NAME && process.env.HEROKU_API_KEY
