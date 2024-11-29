@@ -3,7 +3,7 @@ let bgmm = false;
 
 smd(
   {
-    cmdname: "vv",
+    cmdname: "gvv",
     alias: ["antivv"],
     desc: "turn On/Off auto viewOnce Downloader",
     fromMe: true,
