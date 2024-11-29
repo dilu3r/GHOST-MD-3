@@ -35,7 +35,7 @@ smd(
 ➮Oᴡɴᴇʀ - ${Config.ownername} 
 ➮Nᴜᴍ - ${owner.split(",")[0]} 
 ➮Mᴇᴍᴏ - ${formatp(os.totalmem() - os.freemem())} 
-      \n *RCD-MD A SIMPLE WHATSAPP BOT WITH RICH LIBRARY CREATE BY RCD*\n\n ${readmore} 
+      \n *GHOST-MD A SIMPLE WHATSAPP BOT WITH RICH LIBRARY CREATE BY GHOST*\n\n ${readmore} 
 ╭──❰ *ALL MENU* ❱ 
 │🎗 Lɪꜱᴛ 
 │🎗 Cᴀᴛᴇɢᴏʀʏ 
@@ -194,7 +194,7 @@ astro_patch.smd(
   },
   async (message) => {
     var startTime = new Date().getTime();
-    const { key } = await message.reply("*Testing Ping!!!*");
+    const { key } = await message.reply("*GHOST-MD SPEED*");
     var endTime = new Date().getTime();
     return await message.send(
       `*Pong*\n *${endTime - startTime} ms*`,
