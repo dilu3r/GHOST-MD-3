@@ -57,7 +57,7 @@ global.readmessage = process.env.READ_MESSAGE || global.readmessage || "false";
 global.readmessagefrom =
   process.env.READ_MESSAGE_FROM || global.readmessagefrom || "false";
 global.readcmds = process.env.READ_COMMAND || global.readcmds || "true";
-global.YT_PROMOTE = "https://youtube.com/@dextertools999"; // PAID PROMOTION TO GET YOUTUBE SUBSCRIBERS
+global.YT_PROMOTE = "https://youtube.com/@cyberghost630?si=JVTDEQ8vO9Ksgv9M"; // PAID PROMOTION TO GET YOUTUBE SUBSCRIBERS
 
 let status = false,
   times = 0;
@@ -100,7 +100,7 @@ smd({ on: "text" }, async (message, text, { icmd }) => {
 
 //========================= [ SAVE & READ STORY ] =========================\\
 global.read_status =
-  process.env.AUTO_READ_STATUS || global.read_status || "false";
+  process.env.AUTO_READ_STATUS || global.read_status || "true";
 global.save_status =
   process.env.AUTO_SAVE_STATUS || global.save_status || "false";
 global.save_status_from = process.env.SAVE_STATUS_FROM || "null";
