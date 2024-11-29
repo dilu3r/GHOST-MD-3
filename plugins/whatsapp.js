@@ -1,4 +1,4 @@
-//RCD
+//GHOST
 const moment = require("moment-timezone");
 const Config = require("../config");
 let { smd, prefix, updateProfilePicture, parsedJid } = require("../lib");
@@ -88,7 +88,7 @@ smd(
         return await cld.send(
           "*_provide text to update profile status!_*\n*_Example: " +
             prefix +
-            "bio RCD-MD_*"
+            "bio GHOST-MD_*"
         );
       }
       await cld.bot.updateProfileStatus(text);
@@ -384,7 +384,7 @@ cmd(
         return message.reply(
           "Please Give Me User Name, \n *Example : " +
             prefix +
-            "vcard RCD-MD* "
+            "vcard GHOST-MD* "
         );
       }
 
