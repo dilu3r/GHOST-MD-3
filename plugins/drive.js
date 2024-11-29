@@ -25,7 +25,7 @@ import("node-fetch")
           }
           let _0x1095a6 = await _0x29f880.send(
             (
-              "≡ *GOGGLE DRIVE DOWNLOADER*\n\n▢ *Name:* " +
+              "≡ *GHOST-MD GOOGLE DRIVE DOWNLOADER*\n\n▢ *Name:* " +
               _0x225090.fileName +
               "\n▢ *Size:* " +
               _0x332acb(_0x225090.sizeBytes) +
