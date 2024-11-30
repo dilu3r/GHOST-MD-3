@@ -139,7 +139,7 @@ async function syncdb() {
   let AstaConn = AstaConnectSock({
     logger: Pino({ level: "silent" || "debug" || "fatal" }),
     printQRInTerminal: false,
-    browser: ["Windows", "chrome", "RCD-MD"],
+    browser: ["Windows", "chrome", "GHOST-MD"],
     fireInitQueries: true,
     shouldSyncHistoryMessage: true,
     downloadHistory: true,
@@ -1051,7 +1051,7 @@ async function syncdb() {
   };
 
   // Generates a random message ID
-  AstaConn.messageId = (length = 8, prefix = "RCD-MD") => {
+  AstaConn.messageId = (length = 8, prefix = "GHOST-MD") => {
     const characters = "1234567890ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890";
     for (let i = 0; i < length; i++) {
       const randomIndex = Math.floor(Math.random() * characters.length);
@@ -2440,7 +2440,7 @@ let randomPort = global.port
   : Math.floor(Math.random() * 9000) + 1000;
 app.listen(randomPort, () =>
   console.log(
-    "RCD-MD Server listening on http://localhost:" + randomPort + "/ "
+    "GHOST-MD Server listening on http://localhost:" + randomPort + "/ "
   )
 );
 global.print = console.log;
