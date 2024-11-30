@@ -194,7 +194,7 @@ cmd({
     const imageUrl = "https://i.postimg.cc/Vs7vFgHQ/1caf53e8190724e18c51d67cc7a91b7e.jpg";
 
     // The message text
-    const customMessage = "𝗜𝗠 𝗥𝗖𝗗 𝗠𝗗 𝗪𝗔 𝗕𝗢𝗧 𝗨𝗦𝗘𝗥 𝗖𝗢𝗠𝗘 𝗠𝗬 𝗘𝗡𝗕𝗢𝗫 💛";
+    const customMessage = "𝗜𝗠 𝗚𝗛𝗢𝗦𝗧 𝗠𝗗 𝗪𝗔 𝗕𝗢𝗧 𝗨𝗦𝗘𝗥 𝗖𝗢𝗠𝗘 𝗠𝗬 𝗘𝗡𝗕𝗢𝗫 💛";
 
     // The voice note URL
     const voiceUrl = "https://github.com/mmmm6644556/VOICE-CLIP-/raw/main/VOICE/Very%20Sad%20Painful%20Ringtone%20New%20Turkish%20Arabic%20Sad%20Ringtone%202023%20Very%20Emotional%20Music%20Ringtone%20Arabic.mp3";
