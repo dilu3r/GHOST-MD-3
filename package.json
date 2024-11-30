@@ -73,10 +73,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/DEXTER-BOTS/RCD-MD.git"
+        "url": "git+https://github.com/KIND-GHOST/GHOST-MD-3.git"
     },
     "bugs": {
-        "url": "https://github.com/DEXTER-BOTS/RCD-MD/issues"
+        "url": "https://github.com/KIND-GHOST/GHOST-MD-3/pulls"
     },
-    "homepage": "https://github.com/DEXTER-BOTS/RCD-MD#readme"
+    "homepage": "https://github.com/KIND-GHOST/GHOST-MD-3/edit/main/README.md"
 }
