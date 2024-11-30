@@ -1,4 +1,4 @@
-//RCD
+//GHOST
 const axios = require("axios");
 const fs = require("fs-extra");
 const util = require("util");
@@ -59,7 +59,7 @@ smd({
     }
     let _0x44d3dd = _0x3febcd.split("|");
     let _0x47c982 = _0x44d3dd[0]?.trim() !== "" ? _0x44d3dd[0] : _0x471740.pushName;
-    let _0x20f704 = _0x44d3dd[1] && _0x44d3dd[1] !== "" ? _0x44d3dd[1] : "RCD-MD";
+    let _0x20f704 = _0x44d3dd[1] && _0x44d3dd[1] !== "" ? _0x44d3dd[1] : "GHOST-MD";
     let _0x3ab776 = await _0xad98fb.download();
     let _0x3d0871 = {
       pack: _0x47c982,
@@ -315,7 +315,7 @@ smd({
   filename: __filename
 }, async (_0x230c03, _0x3b568a) => {
   try {
-    let _0x365550 = "┏━━━━━━━━━━━━━━━━━━━━━━━━\n┃\t*💬RCD_FANCY_TEXT💬* \n┗━━━━━━━━━━━━━━━━━━━━━━━━\n\n " + (_0x3b568a ? "```🔢Reply the number you wants to select``` \n\n" : "```\t\t" + prefix + "fancy Suhail(For all text)\n\t\t" + prefix + "fancy 25 Suhail(For specific text)```\n\n");
+    let _0x365550 = "┏━━━━━━━━━━━━━━━━━━━━━━━━\n┃\t*💬GHOST_FANCY_TEXT💬* \n┗━━━━━━━━━━━━━━━━━━━━━━━━\n\n " + (_0x3b568a ? "```🔢Reply the number you wants to select``` \n\n" : "```\t\t" + prefix + "fancy Suhail(For all text)\n\t\t" + prefix + "fancy 25 Suhail(For specific text)```\n\n");
     let _0x50c7d9 = parseInt(_0x3b568a);
     if (isNaN(_0x50c7d9)) {
       let _0x4ca942 = _0x3b568a ? _0x3b568a : "Suhail";
@@ -345,7 +345,7 @@ smd({
 }, async (_0xbd587f, _0x53c116) => {
   try {
     let _0x48c907 = _0x53c116.trim();
-    let _0x5cfa86 = "┏━━━━━━━━━━━━━━━━━━━━━━━━\n┃\t*RCD-MD_FANCY_TEXT💬* \n┗━━━━━━━━━━━━━━━━━━━━━━━━\n\n " + (_0x48c907 ? "```🔢Reply the number you wants to select``` \n\n" : "```\t\t" + prefix + "styly Suhail(For all text)\n\t\t" + prefix + "styly 19 Suhail(For specific text)```\n\n");
+    let _0x5cfa86 = "┏━━━━━━━━━━━━━━━━━━━━━━━━\n┃\t*GHOST-MD_FANCY_TEXT💬* \n┗━━━━━━━━━━━━━━━━━━━━━━━━\n\n " + (_0x48c907 ? "```🔢Reply the number you wants to select``` \n\n" : "```\t\t" + prefix + "styly Suhail(For all text)\n\t\t" + prefix + "styly 19 Suhail(For specific text)```\n\n");
     let {
       styletext: _0x515724
     } = require("../lib/scraper");
