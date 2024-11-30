@@ -150,9 +150,9 @@ astro_patch.smd(
   ${menuThemeCommandPrefix} *ᴄᴏᴍᴍᴀɴᴅs:* ${commands.length}
   ${menuThemeCommandPrefix} *ᴜsᴀɢᴇ ᴛʀᴇɴᴅ:* ${trend_usage}
   ${menuThemeCommandPrefix} *ᴅᴀᴛᴀʙᴀsᴇ:* ${database_info}
-  ${menuThemeFooter}\n                   ┌┤✑  Thanks for Choosing GHOST-MD 👍
+  ${menuThemeFooter}\n                   ┌┤✑  ɢʜᴏꜱᴛ-ᴍᴅ ᴠ3 
 │└────────────┈ ⳹        
-│*©ᴘᴏᴡᴇʀᴅ ʙʏ ɢʜᴏꜱᴛ-ᴍꜰ *
+│*©ᴘᴏᴡᴇʀᴅ ʙʏ ɢʜᴏꜱᴛ-ᴍᴅ*
 └─────────────────┈ ⳹
   \n${readmore}\n`;
 
