@@ -1,4 +1,4 @@
-//RCD
+//GHOST
 const os = require("os");
 const fs = require("fs");
 const Config = require("../config");
@@ -197,7 +197,7 @@ astro_patch.smd(
     const { key } = await message.reply("*GHOST-MD SPEED*");
     var endTime = new Date().getTime();
     return await message.send(
-      `*Pong*\n *${endTime - startTime} ms*`,
+      `*🔥 𝗚𝗛𝗢𝗦𝗧-𝗠𝗗 𝗦𝗣𝗘𝗘𝗗 *\n *${endTime - startTime} ms*`,
       {
         edit: key,
       },
