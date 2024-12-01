@@ -1,5 +1,5 @@
 while true
 do
-echo "Starting RCD-MD!"
+echo "Starting GHOST-MD!"
 node .
 done
